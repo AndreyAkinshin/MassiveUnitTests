@@ -1,0 +1,11 @@
+# use glob syntax
+syntax: glob
+
+[Bb]in
+[Dd]ebug*/
+obj/
+
+.idea/
+*.iml
+
+UnitTestProject/Tests/
